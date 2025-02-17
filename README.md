@@ -17,7 +17,9 @@
 
 # Overview
 CEMS is a program for lecturers and students, giving users the capability of creating, managing and performing tests. Users can write edit and delete tests, and various statistics of submitted tests are available for viewing.
+
 The user interface was built using JavaFX Scenebuilder, the database was built using MySQL, and the communication between the client and the server side is done using the OCSF framework.
+
 Developed as a midterm project in the ***Software Engineering Department*** at ***Braude Academic College***.
 
 
