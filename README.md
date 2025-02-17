@@ -16,7 +16,9 @@
 </div>
 
 # Overview
-CEMS is a program for lecturers and students, giving users the capability of creating, managing and performing tests. Users can write edit and delete tests, and various statistics of submitted tests are available for viewing. Developed as a midterm project in the ***Software Engineering Department*** at ***Braude Academic College***.
+CEMS is a program for lecturers and students, giving users the capability of creating, managing and performing tests. Users can write edit and delete tests, and various statistics of submitted tests are available for viewing.
+The user interface was built using JavaFX Scenebuilder, the database was built using MySQL, and the communication between the client and the server side is done using the OCSF framework.
+Developed as a midterm project in the ***Software Engineering Department*** at ***Braude Academic College***.
 
 
 # Features
@@ -44,7 +46,7 @@ CEMS is a program for lecturers and students, giving users the capability of cre
 <div align="middle">
     <img src="https://github.com/user-attachments/assets/ccde4a8d-237f-46a3-9668-475fbcef7fe5" width="500px"/>
 </div>
-  - Users with a "head of department" and a "lecturer" role can view statistical data for all tests that have been administered.\
+  - Users with a "head of department" and a "lecturer" role can view statistical data for all tests that have been administered.
   - Available reports can be filtered by subject, semester, and year.
   - The screen gives the user the ability to see the grades distribution for the specified test, along with the median and average grades.
 
@@ -58,5 +60,3 @@ CEMS is a program for lecturers and students, giving users the capability of cre
 - [Noa Krispin](https://github.com/noakrispin)
 
 
-## Licence
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Oneill19/GPTalk/blob/main/LICENSE) file for details.
